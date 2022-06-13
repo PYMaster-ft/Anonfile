@@ -1,5 +1,3 @@
-## Welcome to AnonHunters
-
 <p align="center"> 
     <img src="https://telegra.ph/file/fb05ab8bc2086bce13ec0.jpg" align="center" height="150"></img>
 </p>
