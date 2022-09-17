@@ -15,7 +15,8 @@ C is the mother of all native languages, with its strength and weaknesses. Linux
 Python is the most important scripting language in the community and one of the most rapidly growing programming language (see image below). It has a lot of interesting modules already ready for you to enjoy. It’s very handy to write quick PoCs and most people in the community will understand Python. Alternatively you can learn Ruby that is also very much used (ie. Metasploit framework): pick your poison.
 
 
-->![](https://telegra.ph/file/80b8cc35bc9910f205486.png)<-
+![](https://telegra.ph/file/80b8cc35bc9910f205486.png)
+
 
 Finally, x86/x64 Intel assembly is a must-have if you want to know the basics of reverse engineering. Nowadays very few people actually code in assembly code, but native compiled code can be reverted in assembly code… which you might want to understand to reverse and understand binary files (executables).
 
