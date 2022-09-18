@@ -1,0 +1,7 @@
+- authors: Chamindu Pushpika
+  title: A Title About Citations
+  key: ref1
+
+- authors: Chamindu Pushpika
+  title: "[Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/markup-syntax-highlighting)"
+  key: highlight
