@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: "/Anonfile"
+baseurl: "/Anonfile/tree/gh-pages"
 url: "https://anonhunters.com/"
 
 # THEME-SPECIFIC CONFIGURATION
@@ -54,5 +54,5 @@ plugins: [jekyll-paginate, jekyll-seo-tag, jekyll-feed]
 exclude: [".jekyll-cache", ".jekyll-metadata", ".idea", "vendor/*", "assets/node_modules/*"]
 
 # theme: type-on-strap                                  # if using the theme as a jekyll theme gem
-remote_theme: PYMaster-ft/Anonfile
+remote_theme: PYMaster-ft/Anonfile/tree/gh-pages
                     # If using as a remote_theme in github
